@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.code_1202.calcuios">
+  package="com.andresmata.calcuiosrn">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

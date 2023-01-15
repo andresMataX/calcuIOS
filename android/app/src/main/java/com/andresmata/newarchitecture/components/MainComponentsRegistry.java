@@ -1,4 +1,4 @@
-package com.code_1202.calcuios.newarchitecture.components;
+package com.andresmata.calcuiosrn.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
