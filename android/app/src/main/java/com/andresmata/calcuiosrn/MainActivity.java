@@ -1,4 +1,4 @@
-package com.andresmata.calcuiosrn;
+package com.code_1202.calcuios;
 
 import android.os.Bundle; // here
 import com.facebook.react.ReactActivity;

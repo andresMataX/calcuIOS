@@ -1,4 +1,4 @@
-package com.andresmata.calcuiosrn.newarchitecture.modules;
+package com.code_1202.calcuios.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
