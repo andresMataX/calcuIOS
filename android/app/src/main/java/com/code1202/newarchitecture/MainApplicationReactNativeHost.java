@@ -1,4 +1,4 @@
-package com.andresmata.calcuiosrn.newarchitecture;
+package com.code1202.calcuios.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.andresmata.calcuiosrn.BuildConfig;
-import com.andresmata.calcuiosrn.newarchitecture.components.MainComponentsRegistry;
-import com.andresmata.calcuiosrn.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.code1202.calcuios.BuildConfig;
+import com.code1202.calcuios.newarchitecture.components.MainComponentsRegistry;
+import com.code1202.calcuios.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
