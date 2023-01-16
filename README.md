@@ -12,6 +12,26 @@ El archivo de instalación APK (sólo disponible para Android) se puede encontra
 
 ## Ejecutar el proyecto
 
+### Requisitos previos
+
+Tener [Node.js](https://nodejs.org/es/download/) instalado.
+
+### Instalar los paquetes
+
+```
+npm install
+```
+
+### Configurar el entorno de ejecucion
+
+Se puede seguir las instrucciones dependiendo de su SO usando la [guía oficial](https://reactnative.dev/docs/environment-setup).
+
+### Iniciar el proyecto
+
+```
+npm run android
+```
+
 ## Acerca de
 
 **Subrepositorio de**: [react-native-course](https://github.com/andresMataX/react-native-course)
