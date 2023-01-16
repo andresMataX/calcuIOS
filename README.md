@@ -2,9 +2,13 @@
 
 ## Descripción del proyecto
 
+Calculadora básica con el diseño inspirado en la calculadora de IOS.
+
 ## Capturas de Pantalla
 
 ## Instalación
+
+El archivo de instalación APK (sólo disponible para Android) se puede encontrar en este [link](https://github.com/andresMataX/calcuIOS/releases/tag/v1.0.0).
 
 ## Ejecutar el proyecto
 
